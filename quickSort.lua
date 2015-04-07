@@ -1,4 +1,4 @@
--- 快速排序
+-- 快速排序 by hxiwei
 
 local function quickSort(tab, left, right)
 	if not left then left = 1 end
